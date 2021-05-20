@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>1000</order>
-        <role display_value="">548e78aed5d320107f447c4e56ca33b9</role>
+        <role display_value="sn_dd_k21sampleapplication_upgradeapp" name="sn_dd_k21sampleapplication_upgradeapp">3a4331e4d11030107f444bc95a06d389</role>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2021-04-06 15:42:44</sys_created_on>
-        <sys_id>688e78aed5d320107f447c4e56ca33bd</sys_id>
+        <sys_created_on>2021-05-20 07:28:18</sys_created_on>
+        <sys_id>324331e4d11030107f444bc95a06d38c</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>548e78aed5d320107f447c4e56ca33b9</sys_name>
+        <sys_name>3a4331e4d11030107f444bc95a06d389</sys_name>
         <sys_package display_value="K21 Sample Application" source="x_cdltd_qrc3_mar_2">8cbd94e6d59320107f447c4e56ca339a</sys_package>
         <sys_policy/>
         <sys_scope display_value="K21 Sample Application">8cbd94e6d59320107f447c4e56ca339a</sys_scope>
-        <sys_update_name>sys_embedded_help_role_688e78aed5d320107f447c4e56ca33bd</sys_update_name>
+        <sys_update_name>sys_embedded_help_role_324331e4d11030107f444bc95a06d38c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-04-06 15:42:44</sys_updated_on>
+        <sys_updated_on>2021-05-20 07:28:18</sys_updated_on>
     </sys_embedded_help_role>
 </record_update>
