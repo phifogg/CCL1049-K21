@@ -24,9 +24,9 @@ Feature_04321.prototype = {
         <sys_id>1970ac6ad59320107f447c4e56ca3359</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Feature_04321</sys_name>
-        <sys_package display_value="qrc3-mar-281-apr6dad-dev-001" source="x_cdltd_qrc3_mar_2">8cbd94e6d59320107f447c4e56ca339a</sys_package>
+        <sys_package display_value="K21 Sample Application" source="x_cdltd_qrc3_mar_2">8cbd94e6d59320107f447c4e56ca339a</sys_package>
         <sys_policy>read</sys_policy>
-        <sys_scope display_value="qrc3-mar-281-apr6dad-dev-001">8cbd94e6d59320107f447c4e56ca339a</sys_scope>
+        <sys_scope display_value="K21 Sample Application">8cbd94e6d59320107f447c4e56ca339a</sys_scope>
         <sys_update_name>sys_script_include_1970ac6ad59320107f447c4e56ca3359</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2021-04-06 13:42:31</sys_updated_on>
